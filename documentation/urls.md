@@ -4,4 +4,4 @@
 |qwew|faerw|jytki7|
 
 
-[Return to Homepage](./index)
+[Return to Homepage](../index)
