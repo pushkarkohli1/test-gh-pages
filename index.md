@@ -1,4 +1,4 @@
-This is a landing page for project ABCD
+This is a landing page for project ABCDE
 
 * [About](./about)
 * **Documentation**
